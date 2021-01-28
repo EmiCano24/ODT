@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="32px" viewBox="0 0 18 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>lock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="185" stroke="#979797" transform="translate(-7.000000, 0.000000)">
+            <rect id="Rectangle-904" stroke="none" fill="#2A2630" fill-rule="evenodd" x="15" y="20" width="2" height="6" rx="1"></rect>
+            <path d="M19,14.5121171 C19,13.9242788 19,13.2113008 19,11.9690899 L19,7.18198772 L19,5.00603217 C19,3.34759554 17.6529835,2 16,2 C14.341965,2 13,3.34023909 13,4.99477768 L13,14.5121171 C13.9383368,14.1804627 14.9480937,14 16,14 C17.0519063,14 18.0616632,14.1804627 19,14.5121171 L19,14.5121171 L19,14.5121171 Z M11,15.515549 L11,4.99477768 C11,2.23448883 13.2385763,0 16,0 C18.7558048,0 21,2.24127694 21,5.00603217 L21,15.515549 C23.4119715,17.1300717 25,19.8795839 25,23 C25,27.9705627 20.9705627,32 16,32 C11.0294373,32 7,27.9705627 7,23 C7,19.8795839 8.58802851,17.1300717 11,15.515549 L11,15.515549 L11,15.515549 Z M16,30 C19.8659932,30 23,26.8659932 23,23 C23,19.1340068 19.8659932,16 16,16 C12.1340068,16 9,19.1340068 9,23 C9,26.8659932 12.1340068,30 16,30 L16,30 Z" id="Rectangle-903" stroke="none" fill="#95909E" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
